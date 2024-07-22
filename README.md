@@ -52,13 +52,6 @@ java -cp MovieApp.jar src.MovieApp
 You may wish to reset the dataase to remove all existing data.
 
 
-## 🖊️ Contributors
-* Lee Juin [@Neo-Zenith](https://github.com/Neo-Zenith)
-* Oi Yeek Sheng [@Yeek020407](https://github.com/Yeek020407)
-* Ng Hong Jin, Jonathan [@jonathannghj](https://github.com/jonathannghj)
-* Jerick Lim Kai Zheng [@jlkz](https://github.com/jlkz)
-* Lee Ci Hui [@perfectsquare123](https://github.com/perfectsquare123)
-
 
 ## 📄 Documentation
 * [Live Javadoc](https://moblima.vercel.app)
